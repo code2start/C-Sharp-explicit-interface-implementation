@@ -1,0 +1,11 @@
+C:\Users\Mohamed\source\repos\explicit_interface\bin\Debug\netcoreapp3.0\explicit_interface.exe
+C:\Users\Mohamed\source\repos\explicit_interface\bin\Debug\netcoreapp3.0\explicit_interface.deps.json
+C:\Users\Mohamed\source\repos\explicit_interface\bin\Debug\netcoreapp3.0\explicit_interface.runtimeconfig.json
+C:\Users\Mohamed\source\repos\explicit_interface\bin\Debug\netcoreapp3.0\explicit_interface.runtimeconfig.dev.json
+C:\Users\Mohamed\source\repos\explicit_interface\bin\Debug\netcoreapp3.0\explicit_interface.dll
+C:\Users\Mohamed\source\repos\explicit_interface\bin\Debug\netcoreapp3.0\explicit_interface.pdb
+C:\Users\Mohamed\source\repos\explicit_interface\obj\Debug\netcoreapp3.0\explicit_interface.csprojAssemblyReference.cache
+C:\Users\Mohamed\source\repos\explicit_interface\obj\Debug\netcoreapp3.0\explicit_interface.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\explicit_interface\obj\Debug\netcoreapp3.0\explicit_interface.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\explicit_interface\obj\Debug\netcoreapp3.0\explicit_interface.dll
+C:\Users\Mohamed\source\repos\explicit_interface\obj\Debug\netcoreapp3.0\explicit_interface.pdb
